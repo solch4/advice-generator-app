@@ -69,17 +69,21 @@ main {
 .divider-desktop{
   display: none;
 }
+
 @media (min-width: 525px){
-  .divider-desktop{
-    display: inline-block;
-  }
-  .divider-mobile{
-    display: none;
+  .card {
+    margin-top: 80px;
   }
   .adv-body {
     padding-bottom: 4.5rem;
   }
   .advice {
     padding-bottom: 2.5rem;
+  }
+  .divider-desktop{
+    display: inline-block;
+  }
+  .divider-mobile{
+    display: none;
   }
 }
