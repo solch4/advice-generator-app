@@ -72,7 +72,7 @@ main {
 
 @media (min-width: 525px){
   .card {
-    margin: 80px;
+    margin-top: 80px;
   }
   .adv-body {
     padding-bottom: 4.5rem;
